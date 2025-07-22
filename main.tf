@@ -7,7 +7,7 @@ resource "azurerm_resource_group" "scare" {
 resource "azurerm_resource_group" "rgblock" {
   name     = "Simba505"
 }
-resource "azurerm_resource_group" "scare" {
+resource "azurerm_resource_group" "scare1" {
   name     = "Simba102"
   location = "East US"
 }
