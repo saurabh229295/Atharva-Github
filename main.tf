@@ -9,7 +9,6 @@ resource "azurerm_resource_group" "rgblock" {
   location = "East US"
 }
 
-
 resource "azurerm_resource_group" "scare1" {
   name     = "Simba102"
   location = "East US"
